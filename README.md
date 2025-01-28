@@ -1,6 +1,6 @@
-**EAST BOY - Music Artist Showcase Website 🎵**
+# EAST BOY - Music Artist Showcase Website 🎵
 
-This is a small project designed to showcase and celebrate the achievements of EAST BOY, a talented artist from the Enactus club, who recently won a significant honor. The website highlights his music, provides access to his platforms, and connects with fans globally.
+This is a small project designed to showcase and celebrate the achievements of EAST BOY, a talented artist from the Enactus club, who recently won a significant honor. The website highlights his music, provides access to his platforms.
 
 **Features**
 
